@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-07)
+## Unreleased (2026-05-14)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`b517ce1`](https://github.com/stdlib-js/stdlib/commit/b517ce16f647ffe2270573dff57755fe7ba69027) - **docs:** propagate description and example fixes in `stats/base/dists/*` [(#12132)](https://github.com/stdlib-js/stdlib/pull/12132) _(by Philipp Burckhardt)_
 -   [`9c42a28`](https://github.com/stdlib-js/stdlib/commit/9c42a2830057c061cb449cabfa56d58caba8362b) - **bench:** refactor to use string interpolation in `stats/base/dists/gamma` [(#10713)](https://github.com/stdlib-js/stdlib/pull/10713) _(by Siddhartha Mondal)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Philipp Burckhardt
 -   Siddhartha Mondal
 
 </section>
