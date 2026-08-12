@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-01)
+## Unreleased (2026-08-12)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`57b9c44`](https://github.com/stdlib-js/stdlib/commit/57b9c44d351a44858b83509810dd96116ac6bb28) - **test:** migrate `stats/base/dists/gamma/pdf` to ULP-based assertions [(#14206)](https://github.com/stdlib-js/stdlib/pull/14206) _(by Athan Reines)_
 -   [`112dcfc`](https://github.com/stdlib-js/stdlib/commit/112dcfcf5333be07ec3986193a011220762a0591) - **docs:** fix string interpolation and missing JSDoc annotations [(#13284)](https://github.com/stdlib-js/stdlib/pull/13284) _(by Philipp Burckhardt)_
 -   [`b517ce1`](https://github.com/stdlib-js/stdlib/commit/b517ce16f647ffe2270573dff57755fe7ba69027) - **docs:** propagate description and example fixes in `stats/base/dists/*` [(#12132)](https://github.com/stdlib-js/stdlib/pull/12132) _(by Philipp Burckhardt)_
 -   [`9c42a28`](https://github.com/stdlib-js/stdlib/commit/9c42a2830057c061cb449cabfa56d58caba8362b) - **bench:** refactor to use string interpolation in `stats/base/dists/gamma` [(#10713)](https://github.com/stdlib-js/stdlib/pull/10713) _(by Siddhartha Mondal)_
@@ -26,8 +27,9 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 -   Siddhartha Mondal
 
